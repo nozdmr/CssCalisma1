@@ -1,0 +1,34 @@
+h1 {
+
+    font-size: 40px;
+    color: red;
+}
+
+h2 {
+
+   font-size: 20px;
+   color: black;
+
+}
+
+p {
+
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ /* body {
+
+    list-style-position: inside;
+} */
+body {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: #fff2df;
+  }
+
+  a {
+
+    font-size: 16px;
+  }
